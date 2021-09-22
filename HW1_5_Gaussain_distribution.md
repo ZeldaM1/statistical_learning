@@ -9,6 +9,7 @@ Given µ = 10, σ = 5, numbers N varies from 10 to 1e8
  
 
 #observation
+
 With N goes from 10 to 1e8, mean and variance of N random numbers approach to given µ = 10 and σ= 5, gradually. \
 Results are shown as follows.
 
